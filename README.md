@@ -2,7 +2,7 @@
 
 Repository contains some of the projects I was working on and some of the Homework solutions.
 
-Machine Learning
+**Machine Learning**
 - Trees.ipynb 
   - Decision Trees for Classification
   - Manual implementation of decision trees
@@ -14,6 +14,6 @@ Machine Learning
   - finding similar sentences
   - using and comparing pretrained models, fine-tuned BERT, Ernie, DeBERTa 
 
-Structural Econometrics
+**Structural Econometrics**
 - Production Function Estimation.ipynb
   - Estimating production function using Olley and Pakes approach
