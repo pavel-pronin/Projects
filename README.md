@@ -20,6 +20,10 @@ Text:
 - Trees.ipynb 
   - Decision Trees for Classification
   - Manual implementation of decision trees
+- Boosting.ipynb
+  - Gradient Boosting for regression
+  - boosting.py manually implements boosting 
+  - Also features blending
 
 **Structural Econometrics**
 - Production Function Estimation.ipynb
