@@ -4,7 +4,7 @@ Repository contains some of the projects I was working on and some of the Homewo
 
 **Machine Learning**
 
-Text:
+*Text:*
 - Text_TFIDF_word2vec_fasttext.ipynb
   - predicting numeric data from text
   - Text preprocessing (POS Tagging, singularization, lemmatization, spell-checking, subsampling)
@@ -16,7 +16,7 @@ Text:
   - finding similar sentences
   - using and comparing pretrained models, fine-tuned BERT, Ernie, DeBERTa 
 
-**Numeric Data**
+*Numeric Data*
 - Trees.ipynb 
   - Decision Trees for Classification
   - Manual implementation of decision trees
