@@ -34,3 +34,7 @@ Repository contains some of the projects I was working on and some of the Homewo
 **Structural Econometrics**
 - Production Function Estimation.ipynb
   - Estimating production function using Olley and Pakes approach
+- RustModel.ipynb and Rust.pdf
+  - Implement's Dynamic Programming model of Rust's original paper
+  - Paper Rust.pdf describes what exactly is happening and theory behind it
+
