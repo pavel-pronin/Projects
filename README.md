@@ -13,7 +13,6 @@ Repository contains some of the projects I was working on and some of the Homewo
   - boosting.py manually implements boosting 
   - Also features blending
 
-
 *Text*
 - Text_TFIDF_word2vec_fasttext.ipynb
   - predicting numeric data from text
