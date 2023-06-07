@@ -37,3 +37,11 @@ Repository contains some of the projects I was working on and some of the Homewo
   - Implement's Dynamic Programming model of Rust's original paper
   - Paper Rust.pdf describes what exactly is happening and theory behind it
 
+**Marketing**
+- Bags.ipynb
+  - Conjoint Analysis
+  - Applies Partworth regressions
+  - Estimates Utilities and finds optimal product line with 1 or 2 goods, accounting for substitution patterns
+- Brands.ipynb
+  - Uses Latent Dirichlet Analysis to find which brands are associated with which topics by consumers 
+
